@@ -8,8 +8,8 @@ A modern and responsive e-commerce frontend built using React.js, Redux Toolkit,
 
 ## 📂 GitHub Repository
 📦 Client Repo: https://github.com/KrGuddu/ownCartX-client  
-📦 Server Repo: https://github.com/KrGuddu/ownCartX-backend
-📦 Admin Repo: https://github.com/KrGuddu/ownCartX-admin    comming sson
+📦 Server Repo: https://github.com/KrGuddu/ownCartX-backend  
+📦 Admin Repo: https://github.com/KrGuddu/ownCartX-admin      comming sson
 
 ---
 
