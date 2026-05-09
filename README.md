@@ -1,4 +1,4 @@
-# 🚀 OWNCARTX Client
+<h1 align ="center">🚀 OWNCARTX Client </h1>
 
 A modern and responsive e-commerce frontend built using React.js, Redux Toolkit, Tailwind CSS, Stripe, and AI-powered product search.
 
