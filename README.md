@@ -1,16 +1,170 @@
-# React + Vite
+# 🚀 OWNCARTX Client
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive e-commerce frontend built using React.js, Redux Toolkit, Tailwind CSS, Stripe, and AI-powered product search.
 
-Currently, two official plugins are available:
+---
+## 🚀 Live Demo
+🔗 Live Demo: https://owncartx.vercel.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📂 GitHub Repository
+📦 Client Repo: https://github.com/KrGuddu/ownCartX-client  
+📦 Server Repo: https://github.com/KrGuddu/ownCartX-backend
+📦 Admin Repo: https://github.com/KrGuddu/ownCartX-admin    comming sson
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+# ✨ Features
 
-## Expanding the ESLint configuration
+## 🛍️ E-Commerce Features
+- Product Listing
+- Product Details Page
+- Category Filtering
+- Pagination
+- Product Search
+- AI Product Search
+- Shopping Cart
+- Checkout System
+- Order Management
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🔐 Authentication
+- User Registration
+- User Login
+- Protected Routes
+- Forgot Password
+- Reset Password
+
+---
+
+## 💳 Payments
+- Stripe Payment Integration
+- Secure Checkout Flow
+
+---
+
+## 🎨 UI/UX Features
+- Fully Responsive Design
+- Dark/Light Theme
+- Modern UI Components
+- Smooth Navigation
+- Sidebar & Search Overlay
+- Product Sliders & Hero Sections
+
+---
+
+## ⭐ Product Reviews
+- Add Reviews
+- Ratings System
+- Review Display
+
+---
+
+# 🛠️ Tech Stack
+
+## 🌐 Frontend
+- React.js
+- Vite
+
+## 🎯 State Management
+- Redux Toolkit
+
+## 🎨 Styling
+- Tailwind CSS
+- CSS3
+
+## 🌍 Routing
+- React Router DOM
+
+## 🔗 API Handling
+- Axios
+
+## 💳 Payments
+- Stripe
+
+## 🤖 AI Integration
+- Gemini AI Search
+
+---
+
+# 📁 Project Structure
+
+```bash
+OWNCARTX/
+│
+├── client/
+│   ├── public/
+│   │
+│   ├── src/
+│   │   ├── assets/
+│   │   ├── components/
+│   │   ├── contexts/
+│   │   ├── data/
+│   │   ├── lib/
+│   │   ├── pages/
+│   │   ├── store/
+│   │   ├── App.jsx
+│   │   └── main.jsx
+│   │
+│   ├── .env
+│   ├── package.json
+│   └── vite.config.js
+|
+├── admin/          comming soon
+```
+
+---
+
+# 🚀 Installation
+
+```bash
+# Clone Repository
+git clone <your-repository-url>
+
+# Go to client folder
+cd client
+
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
+```
+
+---
+
+# 🌍 Environment Variables
+
+Create a `.env` file in client root directory:
+
+```env
+VITE_API_URL=your_backend_api_url
+
+VITE_STRIPE_FRONTEND_KEY=your_stripe_publishable_key
+```
+
+---
+
+# ⚡ Frontend Architecture
+
+- Component-Based Architecture
+- Reusable UI Components
+- Redux State Management
+- REST API Integration
+- Responsive Design System
+
+---
+
+## 👨‍💻 Author
+**Mr. Guddu Kumar**  
+Software Developer
+
+🌐 Portfolio: https://krguddu.netlify.app
+
+🐙 GitHub: https://github.com/KrGuddu
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
